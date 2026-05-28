@@ -11,4 +11,5 @@ LeetCode-Mastery is a curated repository of optimized SQL solutions for Easy, Me
 | [0177-nth-highest-salary](https://github.com/AtinDimri/LeetCode-Mastery/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/AtinDimri/LeetCode-Mastery/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/AtinDimri/LeetCode-Mastery/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/AtinDimri/LeetCode-Mastery/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
